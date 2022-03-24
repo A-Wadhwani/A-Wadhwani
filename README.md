@@ -2,7 +2,7 @@
 
 I'm **Aryan Wadhwani**, and I'm a junior studying Computer Science at **Purdue University**. I'm interested in various fields, including Software Engineering, Machine Intelligence, Systems Programming and Algorithmic Foundations.
 
-I'm an incoming Software Engineering Intern at **Meta** (previously Facebook), I’m currently an Undergraduate Teaching Assistant for **Purdue's Department of Computer Science**, and I've previously worked at **Angi** as a iOS Engineering Intern. I'm also an organizer for **Purdue LaunchPad** ([Apply to be a mentor!!](http://bit.do/LPMentor2022))
+I'm an incoming Software Engineering Intern at **Meta** (previously Facebook), I’m currently an Undergraduate Teaching Assistant for **Purdue's Department of Computer Science**, and I've previously worked at **Angi** as a iOS Engineering Intern. I'm also an organizer for **Purdue LaunchPad**.
 
 ### Contact Information
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanwadhwani/)
